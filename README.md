@@ -1,9 +1,11 @@
 # imdb_scraper
+This is a webscraper for series on imdb. It will return some data of the show provided. 
 
-1. Run the webscraper.py
-2. Enter the imdb url of a series mainpage
+1. pull the git.
+2. Run the webscraper.py
+3. Enter the imdb url of a series mainpage*
 
-## What is a series mainpage
+## * What is a series mainpage
 This is the webpage that shows all the information about the serie.
 
 ### Example
